@@ -18,6 +18,7 @@
   "homepage": "https://github.com/arman1454/UniSwapV3-SDK-Token-Quantity-Swap#readme",
   "dependencies": {
     "@uniswap/sdk-core": "^5.3.0",
-    "@uniswap/v3-sdk": "^3.13.0"
+    "@uniswap/v3-sdk": "^3.13.0",
+    "ethers": "^5.0.0"
   }
 }
